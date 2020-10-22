@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    /* border: 1px pink solid; */
+}
+
+.nav {
+    display: flex;
+}
+
+h1 {
+    margin-right: 300px;
+}
+
+a {
+    margin: 10px;
+    vertical-align: middle;
+}
+
+#stats {
+    background-color: rgb(226, 190, 226);
+    color: black;
+    box-shadow: 2px 2px black;
+    text-decoration: none;
+    padding: 4px;
+}
+
+#wish {
+    background-color: white;
+    color: black;
+    box-shadow: 2px 2px black;
+    text-decoration: none;
+    padding: 4px;
+    border: 1px black solid;
+}
+
+h2 {
+    margin-left: 25px;
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 720px;
+    margin: 10px 25px 25px 25px;
+}
+
+td, 
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

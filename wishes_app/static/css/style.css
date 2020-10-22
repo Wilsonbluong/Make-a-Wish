@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    /* border: 1px pink solid; */
+}
+
+title {
+    text-align: center;
+}
+
+.messages {
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+.register,
+.login {
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px;
+    padding: 10px;
+    border: 2px black solid;
+
+}
+
+button {
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+}

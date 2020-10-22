@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    /* border: 1px pink solid; */
+}
+
+.nav {
+    display: flex;
+}
+
+h1 {
+    margin: 25px 250px 25px 25px;
+}
+
+.new_wish {
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px;
+    padding: 10px;
+    border: 2px black solid;
+
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+#cancel {
+    background-color: white;
+    color: black;
+    box-shadow: 2px 2px black;
+    text-decoration: none;
+    padding: 1px;
+    border: 1px black solid;
+    margin: 0px 5px 0px 190px;
+}
+
+a {
+    margin-top: 25px;
+}
